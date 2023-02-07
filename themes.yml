@@ -413,3 +413,11 @@
   license:   MIT
   gem:       oinam-jekyll
   tags:     [minimal, responsive, blog, clean, simple, nord, light, dark]
+
+- name:      Hugo Saint-Amant Lamy
+  github:    hugostamant/hugostamant.github.io
+  branch:    master                          
+  demo_url:  hugostamant.github.io
+  author:    Hugo Saint-Amant Lamy
+  thumbnail: hugostamant.png
+  license:   MIT
